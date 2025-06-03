@@ -1,0 +1,4 @@
+tk
+ttkbootstrap
+bcrypt
+shutil
