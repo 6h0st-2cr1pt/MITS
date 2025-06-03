@@ -1,4 +1,4 @@
-# Missing Item Recovery System (MITS)
+Missing Item Recovery System (MITS)
 
 A comprehensive desktop application for managing and tracking lost and found items, built with Python and Tkinter.
 
